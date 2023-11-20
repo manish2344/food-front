@@ -1,0 +1,46 @@
+.form{
+
+    background-color: chocolate;
+    padding: 40px 30px;
+    border-radius: 10px;
+  }
+  body{
+  width: 100%;
+  margin: 0%;
+  padding: 0%;
+  }
+  .registation{
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   /* height: 100vh; */
+   margin-top:100px;
+   margin-bottom:100px;
+  }
+  
+  label{
+  display: block;
+  }
+  input:hover{
+    border: visible;
+  }
+  input{
+  width:300px;
+  margin-top: 5px;
+  padding: 10px;
+  /* background-color: grey; */
+  outline: none;
+  border: none;
+  }
+.btn{
+margin: 20px 0px;
+background:#252323;
+color:white;
+padding:10px 20px; 
+}
+.btn:hover{
+
+  background:green;
+  
+  }
